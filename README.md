@@ -10,17 +10,17 @@ Projeyi çalıştırmak için ortam olarak Visual Studio programını edinmemiz 
 
 Ardından projeyi Visual Studio ile başlattıktan sonra sağ tarafta bulunan kısımda projenin üzerine sağ tıklayarak <strong>Özellikler</strong> kısmına giriyoruz.
 
-![](img.jpg)
+![](https://github.com/shrgrl/bresenhamOpenGLDemo/blob/master/img.jpg)
 
 Burada karşımıza çıkan ekranda C/C++ seçeneğinin <strong>Genel</strong> kısmındaki <strong>Ek İçeren Dizinler</strong> seçeneğine girip, indirdiğimiz dosya dizininin içinden ayrı ayrı <strong>include</strong> dosyalarını ekliyoruz.
 
-![](img1.jpg)
+![](https://github.com/shrgrl/bresenhamOpenGLDemo/blob/master/img1.jpg)
 
 İkinci olarak <strong>Bağlayıcı</strong> kısmındaki <strong>Ek Kitaplık Dizinleri</strong> seçeneğine girip, indirdiğimiz dosya dizininin içinden ayrı ayrı <strong>lib</strong> dosyalarını ekliyoruz.
 
-![](img2.jpg)
+![](https://github.com/shrgrl/bresenhamOpenGLDemo/blob/master/img2.jpg)
 
 Bütün ekleme işlemlerinin ardından projemizi çalıştırabiliriz. Run tuşuna bastıktan sonra karşımıza çıkan arayüzde böyle bir görüntü belirecektir.
 
-![](img3.jpg)
+![](https://github.com/shrgrl/bresenhamOpenGLDemo/blob/master/img3.jpg)
 
